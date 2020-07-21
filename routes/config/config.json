@@ -1,0 +1,25 @@
+{
+  "development": {
+    "username": "npny6g8zz5kbzr5o",
+    "password": "woyvouzuw0ya3yvx",
+    "database": "ivd3z8ydv5bjujkh",
+    "host": "dno6xji1n8fm828n.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    "port": 3306,
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "npny6g8zz5kbzr5o",
+    "password": "woyvouzuw0ya3yvx",
+    "database": "ivd3z8ydv5bjujkh",
+    "host": "dno6xji1n8fm828n.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "npny6g8zz5kbzr5o",
+    "password": "woyvouzuw0ya3yvx",
+    "database": "ivd3z8ydv5bjujkh",
+    "host": "dno6xji1n8fm828n.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql",
+    "use_env_variable": "JAWSDB_URL"
+  }
+}
